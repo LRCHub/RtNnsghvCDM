@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "キン肉マンGo Fight!",
+  "base_artist": "キン肉マン(CV:宮野真守)",
+  "createdAt": "2026-02-13T10:23:24.220455Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キン肉マンGo Fight!(2005ver.)",
+      "artist": "串田　アキラ",
+      "has_synced": true,
+      "path": "select/01_キン肉マンGo_Fight!(2005ver.)_串田_アキラ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キン肉マンGo Fight!",
+      "artist": "キン肉マン(CV:宮野真守)",
+      "has_synced": false,
+      "path": "select/pl_01_キン肉マンGo_Fight!_キン肉マン(CV_宮野真守).txt"
+    }
+  ]
+}
